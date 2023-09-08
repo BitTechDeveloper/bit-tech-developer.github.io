@@ -47,4 +47,13 @@ Here they are with their snapshots and links to published sites.
 ***
 ***
 
+## `Job Listing Master` from [Front End Mentor](https://www.frontendmentor.io/)   
+
+![Ecommerce product page](./snapshots/Job-Listing.png)   
+
+[Go to Published site to see full layout and all the functionality ->](https://bittechdeveloper.github.io/projects/views/fem/fem-int-job-listing.html)   
+
+***
+***
+
 **These are few but soon I will build other projects too.**
