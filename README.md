@@ -22,7 +22,10 @@ Here they are with their snapshots and links to published sites.
 
 ## `Bookmark Landig Page` from [Front End Mentor](https://www.frontendmentor.io/)   
 
-![Bookmark landing page](./snapshots/fem-int-bookmark.png)   
+[![Bookmark landing page](./snapshots/fem-int-bookmark.png)](https://bittechdeveloper.github.io/projects/views/fem/fem-int-bookmark.html)  
+
+### Main Features:   
+Email Validation | Accordion | Interaction | Responsive Layout
 
 [Go to Published site to see full layout and all the functionality ->](https://bittechdeveloper.github.io/projects/views/fem/fem-int-bookmark.html)   
 
@@ -31,7 +34,13 @@ Here they are with their snapshots and links to published sites.
 
 ## `Multi Step Subscription Form` from [Front End Mentor](https://www.frontendmentor.io/)   
 
-![Multi step subscription form](./snapshots/fem-adv-multi-form.png)
+[![Multi step subscription form](./snapshots/fem-adv-multi-form.png)](https://bittechdeveloper.github.io/projects/views/fem/fem-adv-multi-form.html)
+
+
+### Main Features:   
+Dynamic Calculation | Switch mode for duration type | Multi Step | Input Fields checking before Next Step | 
+Persistent Storage between Reloads | Interaction | Responsive Layout
+
 
 [Go to Published site to see full layout and all the functionality ->](https://bittechdeveloper.github.io/projects/views/fem/fem-adv-multi-form.html)  
 
@@ -40,7 +49,11 @@ Here they are with their snapshots and links to published sites.
 
 ## `Ecommerce Product Page` from [Front End Mentor](https://www.frontendmentor.io/)   
 
-![Ecommerce product page](./snapshots/fem-int-ecommerce.png)   
+[![Ecommerce product page](./snapshots/fem-int-ecommerce.png)](https://bittechdeveloper.github.io/projects/views/fem/fem-int-ecommerce.html)   
+
+### Main Features:  
+Image Carousal | Interactive Scrolling | LightBox view | Product Counter | Adding to Cart |
+Deleting Cart | Dynamic Calculation | Persistent Storage between Reloads | Interaction | Responsive
 
 [Go to Published site to see full layout and all the functionality ->](https://bittechdeveloper.github.io/projects/views/fem/fem-int-ecommerce.html)   
 
@@ -49,7 +62,11 @@ Here they are with their snapshots and links to published sites.
 
 ## `Job Listing Master` from [Front End Mentor](https://www.frontendmentor.io/)   
 
-![Ecommerce product page](./snapshots/Job-Listing.png)   
+[![Ecommerce product page](./snapshots/Job-Listing.png)](https://bittechdeveloper.github.io/projects/views/fem/fem-int-job-listing.html)   
+
+
+### Main Features:   
+Filtering Lists | Dynamic Data Loading through JSON | Interaction | Responsive Layout
 
 [Go to Published site to see full layout and all the functionality ->](https://bittechdeveloper.github.io/projects/views/fem/fem-int-job-listing.html)   
 
